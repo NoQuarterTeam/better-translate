@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@better-translation/tsconfig": "workspace:*",
-    "@remotion/cli": "4.0.521",
+    "@remotion/cli": "4.0.522",
     "@types/react": "catalog:",
     "@types/react-dom": "catalog:",
     "typescript": "catalog:"
